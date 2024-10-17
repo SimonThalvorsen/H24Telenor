@@ -1,0 +1,6 @@
+[submodule "Mobile_Network_Performance_Telenor"]
+	path = Mobile_Network_Performance_Telenor
+	url = https://github.com/eirikStordalTelenor/Mobile_Network_Performance_Telenor.git
+[submodule "telenor-bedpress-vue3-template"]
+	path = telenor-bedpress-vue3-template
+	url = https://github.com/SindreRKTelenor/telenor-bedpress-vue3-template.git
